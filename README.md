@@ -25,7 +25,7 @@
 [Youtube](https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug)
 [Instagram](https://www.instagram.com/ashrrithk/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of the time watching youtube.
+- ⚡ Fun fact: I spend most of the time on youtube and twitter.
 
 [![Twitter: ashrrithk](https://img.shields.io/twitter/follow/ashrrithk?style=social)](https://twitter.com/ashrrithk)
 [![Linkedin: Ashrrith Karunaakar](https://img.shields.io/badge/-ashrrith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashrrith.karunaakar/)](https://www.linkedin.com/in/ashrrith.karunaakar/)
