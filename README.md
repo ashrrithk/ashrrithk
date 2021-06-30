@@ -1,6 +1,6 @@
  Hi, I'm Ashrrith 👋
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrrithk&label=Views&color=blue&style=plastic" alt="ashrrithk" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrrithk&label=Views&color=blue&style=plastic" alt="ashrrithk" /> </p>
 
 <a href="https://twitter.com/ashrrithk">
   <img align="left" alt="Ashrrith's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug/">
   <img align="left" alt="Ashrrith's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br>
+<br> -->
 
 
 - 🌱 I’m currently learning MERN Stack and Flutter.
