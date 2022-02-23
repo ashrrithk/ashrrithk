@@ -22,7 +22,8 @@
 
 - 🌱 I’m currently learning MERN Stack and Flutter.
 - 📫 How to reach me: [Twitter](https://twitter.com/ashrrithk)
-[Youtube](https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug)
+- [Linkedin](https://linkedin.com/in/ashrrith-karunaakar)
+<!-- [Youtube](https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug) -->
 [Instagram](https://www.instagram.com/ashrrithk/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of the time on youtube and twitter.
