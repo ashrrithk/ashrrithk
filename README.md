@@ -23,9 +23,10 @@
 - 📫 How to reach me: 
 - [Twitter](https://twitter.com/ashrrithk)
 - [Linkedin](https://linkedin.com/in/ashrrithk)
+- ⚡ Fun fact: I spend most of the time on youtube and twitter.
 <!-- [Youtube](https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug) -->
 <!-- [Instagram](https://www.instagram.com/ashrrithk/) -->
-- ⚡ Fun fact: I spend most of the time on youtube and twitter.
+
 
 [![Twitter: ashrrithk](https://img.shields.io/twitter/follow/ashrrithk?style=social)](https://twitter.com/ashrrithk)
 [![Linkedin: Ashrrith Karunaakar](https://img.shields.io/badge/-ashrrith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashrrith.karunaakar/)](https://www.linkedin.com/in/ashrrith.karunaakar/)
