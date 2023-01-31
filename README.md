@@ -20,10 +20,11 @@
 <br> -->
 
 
-- 📫 How to reach me: [Twitter](https://twitter.com/ashrrithk)
-- [Linkedin](https://linkedin.com/in/ashrrith-karunaakar)
+- 📫 How to reach me: 
+- [Twitter](https://twitter.com/ashrrithk)
+- [Linkedin](https://linkedin.com/in/ashrrithk)
 <!-- [Youtube](https://www.youtube.com/channel/UCKeb9O9Uz55G7Xi8mB65Dug) -->
-[Instagram](https://www.instagram.com/ashrrithk/)
+<!-- [Instagram](https://www.instagram.com/ashrrithk/) -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of the time on youtube and twitter.
 
@@ -34,10 +35,9 @@
  -->
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
    
 <a href="https://github.com/ashrrithk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrrithk&theme=light&hide_langs_below=1" />
