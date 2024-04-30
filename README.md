@@ -16,11 +16,11 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,express,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
