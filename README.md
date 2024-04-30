@@ -16,7 +16,7 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,sql)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
