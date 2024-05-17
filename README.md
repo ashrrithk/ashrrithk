@@ -16,11 +16,15 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,sql)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=spring,express,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,express,react,tailwindcss)](https://skillicons.dev)
+
+<h2>Big Data</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=hadoop,hive,spark)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
